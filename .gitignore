@@ -3,3 +3,6 @@ data/
 report.html
 models/tinyphysics_*.onnx
 *.swp
+.venv
+.venv311
+.DS_Store
